@@ -1,4 +1,4 @@
-📱 Old Phone Price Prediction System
+ Old Phone Price Prediction System
 
 Project Description:
 
